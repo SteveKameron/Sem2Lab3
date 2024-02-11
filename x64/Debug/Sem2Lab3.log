@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\173\source\repos\Sem2Lab3\Sem2Lab3\Source1.cpp(22,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\173\source\repos\Sem2Lab3\Sem2Lab3\Source1.cpp(52,36): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Sem2Lab3.vcxproj -> C:\Users\173\source\repos\Sem2Lab3\x64\Debug\Sem2Lab3.exe
